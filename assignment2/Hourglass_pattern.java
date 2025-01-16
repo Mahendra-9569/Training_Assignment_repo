@@ -2,7 +2,7 @@ package assignment2;
 
 public class Hourglass_pattern {
     public static void main(String[] args) {
-        int n = 9;
+        int n = 7;
         int m = n/2;
         for(int i =1; i<=m+1; i++){
            //for space
